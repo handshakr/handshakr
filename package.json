@@ -1,0 +1,25 @@
+{
+  "name": "handshakr",
+  "version": "0.0.1",
+  "description": "Exchange HSK airdrop tokens",
+  "repository": "git://github.com/handshakr/handshakr.git",
+  "bin": {
+    "handshakr": "./bin/handshakr.js"
+  },
+  "dependencies": {
+    "bcrypto": "^5.0.4",
+    "bfile": "^0.2.2",
+    "boxen": "^4.2.0",
+    "brq": "^0.1.8",
+    "bsert": "0.0.10",
+    "bufio": "^1.0.6",
+    "goosig": "^0.6.1",
+    "inquirer": "^7.0.6",
+    "node-fetch": "^2.6.0",
+    "yargs": "^15.1.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "license": "MIT"
+}
