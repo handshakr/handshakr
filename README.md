@@ -21,6 +21,10 @@ Feel free to email us at `handshakr@protonmail.com` with suggestions too! And se
 ## What does the script do? 
 This script will search for your `id_rsa` file that you used for SSH access to GitHub and will use it to sign a special message. You must have access to your SSH key associated with your account in Feb 2019 for the script to work. 
 
+*We are not collecting your private key or using it for anything except to sign one message.*
+
+All of the code is open source in this repo and you can see how key is used here - https://github.com/handshakr/handshakr/blob/master/lib/helper.js#L325
+
 It will also ask for your email and send us this special signed message (proof) and your email. After we confirm that it works, we will send you `$200` Amazon gift card.  Or if you prefer Bitcoin - we can do that as well.
 
 You see that `referrer` flag? This is for you to share with your friends and co-workers.
