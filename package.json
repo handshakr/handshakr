@@ -15,7 +15,7 @@
     "bufio": "^1.0.6",
     "goosig": "^0.6.1",
     "inquirer": "^7.0.6",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "yargs": "^15.1.0"
   },
   "engines": {
